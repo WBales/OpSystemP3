@@ -19,7 +19,7 @@ public class Program {
     public int getStartTime() {
         return startTime;
     }
-    
+
     public String getName() {
         return name;
     }
